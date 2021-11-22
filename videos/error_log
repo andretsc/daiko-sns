@@ -1,0 +1,34 @@
+[19-Nov-2021 14:08:01 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/cabecalho/header.php on line 3
+[19-Nov-2021 14:08:01 America/Fortaleza] PHP Warning:  include_once(classes/database.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 11
+[19-Nov-2021 14:08:01 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'classes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 11
+[19-Nov-2021 14:08:01 America/Fortaleza] PHP Warning:  include_once(initial.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 12
+[19-Nov-2021 14:08:01 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 12
+[19-Nov-2021 14:08:01 America/Fortaleza] PHP Warning:  include_once(classes/pessoa.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 13
+[19-Nov-2021 14:08:01 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'classes/pessoa.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 13
+[19-Nov-2021 14:08:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Pessoa' not found in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 14
+[19-Nov-2021 14:08:07 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/cabecalho/header.php on line 3
+[19-Nov-2021 14:08:07 America/Fortaleza] PHP Warning:  include_once(classes/database.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 11
+[19-Nov-2021 14:08:07 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'classes/database.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 11
+[19-Nov-2021 14:08:07 America/Fortaleza] PHP Warning:  include_once(initial.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 12
+[19-Nov-2021 14:08:07 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'initial.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 12
+[19-Nov-2021 14:08:07 America/Fortaleza] PHP Warning:  include_once(classes/pessoa.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 13
+[19-Nov-2021 14:08:07 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'classes/pessoa.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 13
+[19-Nov-2021 14:08:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Pessoa' not found in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 14
+[19-Nov-2021 14:08:39 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/cabecalho/header.php on line 3
+[19-Nov-2021 14:08:39 America/Fortaleza] PHP Warning:  include_once(cabecalho/footer.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 219
+[19-Nov-2021 14:08:39 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'cabecalho/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 219
+[19-Nov-2021 14:09:03 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/cabecalho/header.php on line 3
+[19-Nov-2021 14:09:03 America/Fortaleza] PHP Warning:  include_once(cabecalho/footer.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 219
+[19-Nov-2021 14:09:03 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'cabecalho/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 219
+[19-Nov-2021 14:09:46 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/cabecalho/header.php on line 3
+[19-Nov-2021 14:09:46 America/Fortaleza] PHP Warning:  include_once(cabecalho/footer.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 219
+[19-Nov-2021 14:09:46 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'cabecalho/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 219
+[19-Nov-2021 19:33:42 America/Fortaleza] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/cabecalho/header.php on line 3
+[19-Nov-2021 19:33:42 America/Fortaleza] PHP Warning:  include_once(cabecalho/footer.php): failed to open stream: No such file or directory in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 219
+[19-Nov-2021 19:33:42 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'cabecalho/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/faust537/apps.rodrigofaustino.com.br/app/youtube/videos/registrar.php on line 219
